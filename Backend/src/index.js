@@ -8,6 +8,6 @@ app.use(cors());
 app.use(express.json());
 app.use(routes);
 
-app.listen('3000', (req, res) => {
-    console.log("Sevidor em excução na porta 3000!")
+app.listen('3333', (req, res) => {
+    console.log("Sevidor em excução na porta 3333!")
 })

@@ -1,10 +1,10 @@
 import React from 'react';
-import Login from './features/login';
+import Routes from './routes';
 import './global.css'
 
 function App() {
   return (
-    <Login title="Be the hero!" />
+    <Routes />
   );
 }
 
