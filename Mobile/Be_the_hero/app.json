@@ -1,0 +1,19 @@
+{
+  "name": "Be_the_hero",
+  "displayName": "Be_the_hero",
+  "icon": "./assets/icon.png",
+  "orientation": "portrait",
+  "updates": {
+    "fallbackToCacheTimeout": 0
+  },
+  "assetBundlePatterns": [
+    "**/*"
+  ],
+  "android": {
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#E02041"
+    }
+  }
+}
