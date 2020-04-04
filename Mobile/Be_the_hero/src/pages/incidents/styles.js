@@ -36,7 +36,8 @@ export default StyleSheet.create({
         color: '#737380'
     },
 
-    IncidentsList: {
-        
+    incidentsList: {
+        marginTop: 32
     }
+
 });
